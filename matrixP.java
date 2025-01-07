@@ -1,4 +1,4 @@
-public class Lab2{
+public class matrixP{
     public static double[][] transposeCopy(double[][] matrix){
 		double [][] tempArray = new double[matrix.length][matrix[0].length];
         for(int i =0; i< matrix.length; ++i){
